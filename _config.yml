@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ZhaoYan's Homepage"
+title                    : "Zhao's Homepage"
 title_separator          : "-"
-name                     : &name "Yanhanle Zhao"
+name                     : &name "Lauryn Y. Zhao"
 description              : &description "personal description"
 url                      : https://laurynyzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "laurynyzhao/laurynyzhao.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yanhanle Zhao"
+  name             : "Lauryn Y. Zhao"
   pronouns         : "she/her"  
   bio              : "Undergraduate student"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
   uri              : # URL
-  email            : "yanhanle.zhao@link.cuhk.edu.hk" 
+  email            : #"yanhanle.zhao@link.cuhk.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
