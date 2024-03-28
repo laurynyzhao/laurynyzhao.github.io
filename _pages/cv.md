@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, The Chinese University of Hong Kong, 2024
+* B.Sc. in Physics, The Chinese University of Hong Kong, 2024 (Expected)
 
 <!--- Work experience
 ======
