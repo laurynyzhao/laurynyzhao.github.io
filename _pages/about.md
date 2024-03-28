@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This is a personal website of Lauryn Y Zhao, who is currently a year 5 undergraduate student majoring in physics. The cite is still under construction.
+This is a personal website of Lauryn Y. Zhao, who is currently a year 5 undergraduate student majoring in physics. 
+
+This website is still under construction.
